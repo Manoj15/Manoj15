@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Large Scale Recommendation Systems + Large/Small Language Models + Agentic AI**
 
-- 🌱 I’m currently learning **Marketing Analytics, A/B Experimentation, Natural langauge Processing**
+- 🌱 I’m currently learning **Large Language Models, Reinforcement Learning and Agentic AI**
 
-- 👯 I’m looking to collaborate on **Time Series Forecasting, A/B Testing, Natural Language Processing, Customer & Marketing Analytics, Causal Inference**
+- 👯 I’m looking to collaborate on **Recommendation Systems, Generative AI, Reinforcement Learning, Time Series Forecasting, A/B Testing, Natural Language Processing, Customer & Marketing Analytics, Causal Inference**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manoj15](https://github.com/Manoj15)
 
