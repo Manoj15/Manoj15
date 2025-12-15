@@ -4,19 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj15&label=Profile%20views&color=0e75b6&style=flat" alt="manoj15" /> </p>
 
-- 🔭 I’m currently working on **End-to-End MLOps Pipeline for NLP**
+- 🔭 I’m currently working on **Large Scale Recommendation Systems + Large/Small Language Models + Agentic AI**
 
 - 🌱 I’m currently learning **Marketing Analytics, A/B Experimentation, Natural langauge Processing**
 
-- 👯 I’m looking to collaborate on **Time Series Forecasting, A/B Testing, Natural Language Processing, Customer & Marketing Analytics**
+- 👯 I’m looking to collaborate on **Time Series Forecasting, A/B Testing, Natural Language Processing, Customer & Marketing Analytics, Causal Inference**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manoj15](https://github.com/Manoj15)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, ML+Ops, NLP, Data Science**
 
 - 📫 How to reach me **Manhojkummar@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TowzZqkmbrE0RYkIlZe96MmvuWf_z1IH/view?usp=sharing](https://drive.google.com/file/d/1TowzZqkmbrE0RYkIlZe96MmvuWf_z1IH/view?usp=sharing)
 
 - ⚡ Fun fact **I inject coffee in my veins to write code, analyze data and go back to sleep**
 
